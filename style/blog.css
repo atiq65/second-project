@@ -1,0 +1,80 @@
+/* hero section */
+
+/* .imgg{
+    width: 750px;
+    padding-left: 100px;
+} */
+.header{
+    display: flex;
+    align-items: center;
+    width: 1600;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.header-section{
+    width: 50%;
+    justify-items: center;
+    align-items: center;
+    text-align: end;
+}
+.header-title{
+    font-weight: bold;
+    font-size: 65px;
+    font-family:work sans;
+    color: #151414;
+
+
+}
+.header-description{
+    font-weight: 600;
+    font-size: 16px;
+    color: #444343;
+    font-family: work sans;
+    margin-right: 150px;
+}
+.btn-primary{
+    color: #ffffff;
+    background-color: #F15B22;
+    border: 0;
+    border-radius: 5px;
+    font-weight: semibold;
+    font-family: work sans;
+    font-size: 20px;
+    padding: 21px 25px 20px 26px;
+    margin-left: 260px;
+}
+
+/* resume-section */
+.img{
+    width: 450px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.resume-section{
+    display: flex;
+    align-items: center;
+    justify-content;
+}
+.resume-sections{
+    width: 50%;
+}
+.resume-title{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: work sans;
+    color: #151414;
+}
+.resume-description{
+    font-family: work sans;
+    font-weight: 600;
+    font-size: 16px;
+    color: #444343;
+}
+.list{
+    font-weight: 600;
+    font-size: 16px;
+    font-family: work sans;
+    color: #444343;
+}
